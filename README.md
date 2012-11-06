@@ -7,6 +7,7 @@ SWF Structure
 =====
 
 The SWF must implements ISwf interface in order to work properly within Flite's environment.
+
 iswf.swc is located in the swc folder.
 
 Tracking
